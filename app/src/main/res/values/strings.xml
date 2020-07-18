@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DogorCatPerson</string>
+    <string name="fenines_data">Are you ok with the creatures that are fenine?</string>
+    <string name="radio_button_true">Yes</string>
+    <string name="radio_button_false">No</string>
+    <string name="comfortable">On a scale of 1 to 10, how comfortable are you around Canines?</string>
+    <string name="cutest_data">Which ones are the cutest?</string>
+    <string name="dog_name">Dog</string>
+    <string name="cat_name">Cat</string>
+    <string name="parrot_name">Parrot</string>
+    <string name="drool_data">Are you ok with creatures that drool?</string>
+    <string name="button">Show Results</string>
+    <string name="confortableness_data">Comfortableness: 0/10</string>
+    <string name="result_data">You Are a ...</string>
+</resources>
